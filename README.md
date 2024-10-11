@@ -1,4 +1,4 @@
-I started this project as I couldnt get Cuckoo to work as at the time of writing, Cuckoo was (apparantly) in the process of being updated for windows ll and more presisngly,
+I started this project as I couldn't get Cuckoo to work as at the time of writing, Cuckoo was (apparantly) in the process of being updated for windows ll and more presisngly,
 the latest versions of Python. It doesnt support anything after version 2.x of python.
 
 
