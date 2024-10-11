@@ -16,6 +16,8 @@ The following Python modules need to be installed for this to work (as at 11/10/
 
 - colorama - For managing terminal colors and making ANSI escape codes compatible with Windows.
 
+- Reboot after installing. Particularly for pywin32.
+
 
 
 
