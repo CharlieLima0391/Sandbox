@@ -7,13 +7,14 @@ the latest versions of Python. It doesnt support anything after version 2.x of p
 
 The following Python modules need to be installed for this to work (as at 11/10/2024)
 
-psutil - For monitoring system services.
 
-watchdog - For monitoring file system changes.
+- psutil - For monitoring system services.
 
-pywin32 - For accessing Windows-specific APIs, which allows us to monitor registry changes.
+- watchdog - For monitoring file system changes.
 
-colorama - For managing terminal colors and making ANSI escape codes compatible with Windows.
+- pywin32 - For accessing Windows-specific APIs, which allows us to monitor registry changes.
+
+- colorama - For managing terminal colors and making ANSI escape codes compatible with Windows.
 
 
 
